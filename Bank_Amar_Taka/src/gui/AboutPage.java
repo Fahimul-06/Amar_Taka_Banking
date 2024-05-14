@@ -112,7 +112,7 @@ public class AboutPage extends JFrame{
 		tamannadilshadPanel.setBackground(new Color(150,190,250));
 		c.add(tamannadilshadPanel);
 
-		JLabel tamannadilshadNameLabel = new JLabel("Name: Md. Tamanna Dilshad ");
+		JLabel tamannadilshadNameLabel = new JLabel("Name: Tamanna Dilshad ");
 		tamannadilshadNameLabel.setFont(new Font("Gotham", Font.PLAIN,20));
 		tamannadilshadNameLabel.setBounds(20,10,400,50);
 		tamannadilshadPanel.add(tamannadilshadNameLabel);
