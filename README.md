@@ -1,0 +1,1 @@
+Amar Taka Banking is a java project developed for any kind of banking usage.In this project users can creat an account by using signup and login to the account . User can withdraw money, transfer money to another user account and also can deposit money. The whole project used Graphical User Interface to show the interface .
